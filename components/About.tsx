@@ -54,15 +54,15 @@ export default function About() {
             </p>
             <div className="grid grid-cols-2 gap-4 mb-8">
               <div className="p-4 bg-white rounded-xl shadow-md">
-                <h4 className="text-3xl font-bold text-primary-600 mb-1">5+</h4>
+                <h4 className="text-3xl font-bold text-primary-600 mb-1">1+</h4>
                 <p className="text-gray-600 text-sm">Years Experience</p>
               </div>
               <div className="p-4 bg-white rounded-xl shadow-md">
-                <h4 className="text-3xl font-bold text-primary-600 mb-1">100+</h4>
+                <h4 className="text-3xl font-bold text-primary-600 mb-1">10+</h4>
                 <p className="text-gray-600 text-sm">Projects Completed</p>
               </div>
               <div className="p-4 bg-white rounded-xl shadow-md">
-                <h4 className="text-3xl font-bold text-primary-600 mb-1">50+</h4>
+                <h4 className="text-3xl font-bold text-primary-600 mb-1">5+</h4>
                 <p className="text-gray-600 text-sm">Happy Clients</p>
               </div>
               <div className="p-4 bg-white rounded-xl shadow-md">
